@@ -7,6 +7,32 @@
 		"TocTitle": "Subscriptions",
 		"PageTitle": "Subscriptions"
 	},
+	
+	"az configure": {
+		"TocTitle": "Configure",
+		"PageTitle": "Configure"
+	},
+	
+	"az feedback": {
+		"TocTitle": "Feedback",
+		"PageTitle": "Feedback"
+	},
+	"az find": {
+		"TocTitle": "Find",
+		"PageTitle": "Find"
+	},
+	"az interactive": {
+		"TocTitle": "Interactive",
+		"PageTitle": "Interactive"
+	},
+	"az login": {
+		"TocTitle": "Login",
+		"PageTitle": "Login"
+	},
+	"az logout": {
+		"TocTitle": "Logout",
+		"PageTitle": "Logout"
+	},
 	"az acr": {
 		"TocTitle": "Container Registry",
 		"PageTitle": "Container Registry"
